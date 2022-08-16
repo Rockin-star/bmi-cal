@@ -1,1 +1,1 @@
-# bmi-cal
+# BMI
